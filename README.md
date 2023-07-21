@@ -1,6 +1,7 @@
 **# Category-Prediction-of-news-article** 
 
 **News Category Classification using Naive Bayes**
+
 This project focuses on building a Naive Bayes classifier to predict the category of news articles based on their headlines and publishers. The dataset used for this task is the News Aggregator Dataset, collected from various news sources like Reuters, CNN, etc., spanning from March 10th to August 10th in the year 2014. The features of the dataset include headlines, URLs, publishers, categories (business, science and technology, entertainment, health), and timestamps.
 
 *Research Question and Approach*
